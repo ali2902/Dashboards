@@ -1,7 +1,7 @@
 ## Power BI Dashboards/Visualizations
 
-#### 1. Superstore Sales Data Analysis Project
-This repository contains an Excel-based dashboard for analyzing the sales data of Super Stores for the year 2022. The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies for 2023.
+#### 1. Subhash-store Sales Data Analysis Project
+This repository contains an Excel-based dashboard for analyzing the sales data of Subhash Store for the year 2022. The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies for 2023.
 
 ##Objective
 

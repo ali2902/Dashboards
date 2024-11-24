@@ -3,8 +3,7 @@
 #### 1. Subhash-store Sales Data Analysis Project
 This repository contains an Excel-based dashboard for analyzing the sales data of Subhash Store for the year 2022. The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies for 2023.
 
-##Objective
-
+## Objective
 Super Stores aimed to create an annual sales report for 2022 to understand their customers better and enhance sales strategies for the following year. Sample questions that guided the analysis included:
 
 Compare sales & orders using a single chart.
@@ -16,7 +15,7 @@ Explore the relationship between age groups & gender.
 Identify the channel contributing to maximum sales.
 Determine the highest selling category.
 
-##Insights
+## Insights
 
 After processing, cleaning, and analyzing the data, several key insights were derived:
 
@@ -26,7 +25,7 @@ Maharashtra, Karnataka, and Uttar Pradesh emerged as the top 3 states contributi
 The adult age group (30-49 years) contributed the most (~50%).
 Channels like Amazon, Flipkart, and Myntra contributed the most to sales (~80%).
 
-##Conclusion & Recommendations
+## Conclusion & Recommendations
 
 To improve Super Store's sales:
 
@@ -36,6 +35,12 @@ Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipka
 
 
 #### 2. Bhaskar Store Data Analysis Project
+
+## Objective
+Owner of Bhaskar Store wants us to help create a Dashboard to track and analyze their online sales across India.
+
+
+
 
 
 

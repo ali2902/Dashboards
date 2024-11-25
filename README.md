@@ -49,7 +49,7 @@ Visualize operational metrics such as order volume and regional sales.
 Demonstrate best practices in dashboard design and interactivity.
 
 
-# Features of the Dashboard
+###### Features of the Dashboard
 The Bhaskar E-commerce Sales Dashboard includes:
 
 # Sales Analysis

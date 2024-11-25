@@ -40,7 +40,7 @@ Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipka
 This repository hosts the Bhaskar E-commerce Sales Dashboard, a project designed using Microsoft Power BI. The dashboard provides a comprehensive analysis of sales, customer behavior, and operational metrics for an E-commerce business. It serves as a practical demonstration of using Power BI for data visualization and analytics in a real-world business scenario. 
 
 
-##### Project Objectives
+## Project Objectives
 The main goals of the Bhaskar E-commerce Sales Dashboard are to:
 
 Provide actionable insights into sales performance and trends.
@@ -49,7 +49,7 @@ Visualize operational metrics such as order volume and regional sales.
 Demonstrate best practices in dashboard design and interactivity.
 
 
-###### Features of the Dashboard
+## Features of the Dashboard
 The Bhaskar E-commerce Sales Dashboard includes:
 
 # Sales Analysis

@@ -34,7 +34,6 @@ Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipka
 
 
 
-
 ##### 2. Bhaskar Store Data Analysis Project
 
 ## Overview of Project

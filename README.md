@@ -128,7 +128,7 @@ Revenue growth opportunities identified through trend analysis.
 
 
 ### What You’ll Learn
-## By following this project, users will learn to:
+### By following this project, users will learn to:
 Conduct time series analysis using Power BI's built-in features.
 Leverage DAX formulas for advanced calculations and forecasting.
 Design professional, interactive dashboards tailored for business applications.

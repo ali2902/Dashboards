@@ -1,6 +1,6 @@
 ## Power BI Dashboards/Visualizations
 
-#### 1. Subhash-store Sales Data Analysis Project
+##### 1. Subhash-store Sales Data Analysis Project
 This repository contains an Excel-based dashboard for analyzing the sales data of Subhash Store for the year 2022. The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies for 2023.
 
 ## Objective
@@ -35,7 +35,7 @@ Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipka
 
 
 
-#### 2. Bhaskar Store Data Analysis Project
+##### 2. Bhaskar Store Data Analysis Project
 
 ## Overview of Project
 This repository hosts the Bhaskar E-commerce Sales Dashboard, a project designed using Microsoft Power BI. The dashboard provides a comprehensive analysis of sales, customer behavior, and operational metrics for an E-commerce business. It serves as a practical demonstration of using Power BI for data visualization and analytics in a real-world business scenario. 

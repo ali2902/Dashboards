@@ -27,7 +27,7 @@ Channels like Amazon, Flipkart, and Myntra contributed the most to sales (~80%).
 
 ## Conclusion & Recommendations
 
-To improve Super Store's sales:
+To improve Subhash Store's sales:
 
 Target women customers aged between 30-49 residing in Maharashtra, Karnataka & Uttar Pradesh.
 Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipkart, and Myntra, the channels contributing significantly to sales.
@@ -50,7 +50,7 @@ Visualize operational metrics such as order volume and regional sales.
 Demonstrate best practices in dashboard design and interactivity.
 
 
-### Features of the Dashboard
+## Features of the Dashboard
 The Bhaskar E-commerce Sales Dashboard includes:
 
 # Sales Analysis

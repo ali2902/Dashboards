@@ -127,7 +127,7 @@ Insights to optimize inventory management and marketing strategies.
 Revenue growth opportunities identified through trend analysis.
 
 
-## What You’ll Learn
+### What You’ll Learn
 ## By following this project, users will learn to:
 Conduct time series analysis using Power BI's built-in features.
 Leverage DAX formulas for advanced calculations and forecasting.

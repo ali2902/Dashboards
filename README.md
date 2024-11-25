@@ -31,16 +31,16 @@ To improve Subhash Store's sales:
 
 Target women customers aged between 30-49 residing in Maharashtra, Karnataka & Uttar Pradesh.
 Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipkart, and Myntra, the channels contributing significantly to sales.
-
+               
 
 
 ##### 2. Bhaskar Store Data Analysis Project
 
-## Overview of Project
+# Overview of Project
 This repository hosts the Bhaskar E-commerce Sales Dashboard, a project designed using Microsoft Power BI. The dashboard provides a comprehensive analysis of sales, customer behavior, and operational metrics for an E-commerce business. It serves as a practical demonstration of using Power BI for data visualization and analytics in a real-world business scenario. 
 
 
-### Project Objectives
+# Project Objectives
 The main goals of the Bhaskar E-commerce Sales Dashboard are to:
 
 Provide actionable insights into sales performance and trends.
@@ -49,7 +49,7 @@ Visualize operational metrics such as order volume and regional sales.
 Demonstrate best practices in dashboard design and interactivity.
 
 
-## Features of the Dashboard
+# Features of the Dashboard
 The Bhaskar E-commerce Sales Dashboard includes:
 
 # Sales Analysis
@@ -76,13 +76,13 @@ Filters and slicers for exploring data by region, time period, or product catego
 Drill-through features for detailed analysis.
 Custom visuals for improved user engagement.
 
-## Technologies Used
+# Technologies Used
 Power BI Desktop: For building the dashboard.
 Power Query: For data cleaning and transformation.
 DAX (Data Analysis Expressions): For creating calculated measures and advanced analysis.
 Microsoft Excel: Source data format for the project.
 
-## Project Learnings
+# Project Learnings
 Created interactive dashboard to track and analyze online sales  data.
 Used complex paramaters to drill down in worksheet and customization using filters and slicers.
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.

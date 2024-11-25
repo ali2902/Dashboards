@@ -90,9 +90,9 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 
 
-### 3. Super Store Sales Report 
+## 3. Super Store Sales Report 
 
-#### About the Project
+### About the Project
 This repository is a combination of Power BI with time series analysis to demonstrate how data analysis techniques can drive business success. The project focuses on utilizing Power BI to generate valuable insights and accurate sales forecasts, enabling businesses to make informed, data-driven decisions. To contribute to the success of a business by utilizing data analysis techniques, especially focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ## Objective

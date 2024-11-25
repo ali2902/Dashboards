@@ -92,9 +92,9 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 ### 3. Super Store Sales Report 
 
-### Objective
+#### Objective
 To contribute to the success of a business by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-### Outcome of learning
+#### Outcome of learning
 Incorporated data analaysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving success.
    

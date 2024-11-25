@@ -91,7 +91,5 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 
 
-
-
-### 3. Annual Sales Report for Subhash Store
+### 3. Super Store Sales Report 
    

@@ -52,7 +52,7 @@ Demonstrate best practices in dashboard design and interactivity.
 ## Features of the Dashboard
 The Bhaskar E-commerce Sales Dashboard includes:
 
-# Sales Analysis
+## Sales Analysis
 Total sales, monthly trends, and year-over-year comparisons.
 Product category and sub-category performance.
 Insights into high-performing and low-performing products.

@@ -49,40 +49,40 @@ Visualize operational metrics such as order volume and regional sales.
 Demonstrate best practices in dashboard design and interactivity.
 
 
-## Features of the Dashboard
+#### Features of the Dashboard
 The Bhaskar E-commerce Sales Dashboard includes:
 
-## Sales Analysis
+#### Sales Analysis
 Total sales, monthly trends, and year-over-year comparisons.
 Product category and sub-category performance.
 Insights into high-performing and low-performing products.
 
-## Customer Insights
+#### Customer Insights
 Customer segmentation based on purchase behavior.
 Analysis of repeat customers vs. first-time buyers.
 Top customers by revenue contribution.
 
-## Regional and Geographic Performance
+#### Regional and Geographic Performance
 Sales distribution by region, state, and city.
 Heatmaps to highlight high and low-performing regions.
 
-## Order and Operational Metrics
+#### Order and Operational Metrics
 Order volume trends over time.
 Average order value and shipping costs analysis.
 Profit margins and operational efficiency metrics.
 
-## Dynamic Interactivity
+#### Dynamic Interactivity
 Filters and slicers for exploring data by region, time period, or product category.
 Drill-through features for detailed analysis.
 Custom visuals for improved user engagement.
 
-## Technologies Used
+#### Technologies Used
 Power BI Desktop: For building the dashboard.
 Power Query: For data cleaning and transformation.
 DAX (Data Analysis Expressions): For creating calculated measures and advanced analysis.
 Microsoft Excel: Source data format for the project.
 
-## Project Learnings
+#### Project Learnings
 Created interactive dashboard to track and analyze online sales  data.
 Used complex paramaters to drill down in worksheet and customization using filters and slicers.
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.

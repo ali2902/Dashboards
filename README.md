@@ -34,7 +34,7 @@ Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipka
                
 
 
-#### 2. Bhaskar Store Data Analysis Project
+### 2. Bhaskar Store Data Analysis Project
 
 ## Overview of Project
 This repository hosts the Bhaskar E-commerce Sales Dashboard, a project designed using Microsoft Power BI. The dashboard provides a comprehensive analysis of sales, customer behavior, and operational metrics for an E-commerce business. It serves as a practical demonstration of using Power BI for data visualization and analytics in a real-world business scenario. 

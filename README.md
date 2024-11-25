@@ -78,14 +78,14 @@ Drill-through features for detailed analysis.
 Custom visuals for improved user engagement.
 
 
-### Technologies Used
+## Technologies Used
 Power BI Desktop: For building the dashboard.
 Power Query: For data cleaning and transformation.
 DAX (Data Analysis Expressions): For creating calculated measures and advanced analysis.
 Microsoft Excel: Source data format for the project.
 
 
-### Project Learnings
+## Project Learnings
 Created interactive dashboard to track and analyze online sales  data.
 Used complex paramaters to drill down in worksheet and customization using filters and slicers.
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
